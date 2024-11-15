@@ -172,3 +172,5 @@ public class Calculadora extends JFrame {
         new Calculadora();
     }
 }
+
+// Kill Yourself Button
